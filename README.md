@@ -7,27 +7,29 @@ CE2 10 FEB 14
 
 
 #Schematic
-![schematic](?raw=true "Schematic") 
+![schematic](https://github.com/Austinbolinger/Lab2/blob/master/schematic.JPG?raw=true "Schematic") 
 
 
 #Truth Table 
-![alt text](?raw=true "Truth Table")
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/truthtable.JPG?raw=true "Truth Table")
  
 
 #Image
-Here is the image of the testbench waveform (behavioral)
-![alt text](?raw=true "behavior") 
+Here is the image of the K Maps from which the logic equations are found
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/equation.JPG?raw=true "equation") 
 
-Here is the image of the testbench waveform (structural)
-![alt text](?raw=true "structural") 
+Here is the image of the gate
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/adder.JPG?raw=true "gate") 
 
+Here is the testbench output
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/fullAdderTestbench.JPG?raw=true "testbench") 
 
 #Links
 Full Adder
-
+https://github.com/Austinbolinger/Lab2/blob/master/full_adder.vhd
 
 testbench_behavior
-
+https://github.com/Austinbolinger/Lab2/blob/master/fuller_adder_testbench.vhd
 
 
 
