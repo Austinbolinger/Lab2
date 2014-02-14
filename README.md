@@ -9,23 +9,25 @@ CE2 14 FEB 14
 #Schematic
 ![schematic](https://github.com/Austinbolinger/Lab2/blob/master/schematic2.JPG?raw=true "Schematic") 
 
+![full schematic](https://github.com/Austinbolinger/Lab2/blob/master/fullSchematic.JPG?raw=true "Full Schematic")
+
 
 #Truth Table 
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/truthtable2.JPG?raw=true "Truth Table")
+![truth table](https://github.com/Austinbolinger/Lab2/blob/master/truthtable2.JPG?raw=true "Truth Table")
  
 
 #Image
 Here is the image of the K Maps from which the logic equations are found
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/equation2.JPG?raw=true "equation") 
+![equation](https://github.com/Austinbolinger/Lab2/blob/master/equation2.JPG?raw=true "equation") 
 
 Here is the image of the gate
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/adder.JPG?raw=true "gate") 
+![gate](https://github.com/Austinbolinger/Lab2/blob/master/adder.JPG?raw=true "gate") 
 
 Here is the testbench output full adder
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/fullAdderTestbench.JPG?raw=true "testbench") 
+![full adder](https://github.com/Austinbolinger/Lab2/blob/master/fullAdderTestbench.JPG?raw=true "testbench") 
 
 Here is the testbench output for the four bit
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/testbench4bit.JPG?raw=true "testbench")
+![4 bit](https://github.com/Austinbolinger/Lab2/blob/master/testbench4bit.JPG?raw=true "4 bit testbench")
 
 #Links
 Full Adder
