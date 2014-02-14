@@ -8,8 +8,11 @@ NET "A<1>" LOC = "H18"; # Type = INPUT, Sch name = SW1
 NET "A<0>" LOC = "G18"; # Type = INPUT, Sch name = SW0
 
 # LED outputs constraints
+NET "overflow"  LOC = "P15"; # Sch name = LD5
 NET "Co"  LOC = "E17"; # Sch name = LD4
 NET "S<3>"  LOC = "K14"; # Sch name = LD3
 NET "S<2>"  LOC = "K15"; # Sch name = LD2
 NET "S<1>"  LOC = "J15"; # Sch name = LD1
 NET "S<0>"  LOC = "J14"; # Sch name = LD0
+
+NET clk  LOC = "H13";
