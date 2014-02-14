@@ -7,16 +7,16 @@ CE2 14 FEB 14
 
 
 #Schematic
-![schematic](https://github.com/Austinbolinger/Lab2/blob/master/schematic.JPG?raw=true "Schematic") 
+![schematic](https://github.com/Austinbolinger/Lab2/blob/master/schematic2.JPG?raw=true "Schematic") 
 
 
 #Truth Table 
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/truthtable.JPG?raw=true "Truth Table")
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/truthtable2.JPG?raw=true "Truth Table")
  
 
 #Image
 Here is the image of the K Maps from which the logic equations are found
-![alt text](https://github.com/Austinbolinger/Lab2/blob/master/equation.JPG?raw=true "equation") 
+![alt text](https://github.com/Austinbolinger/Lab2/blob/master/equation2.JPG?raw=true "equation") 
 
 Here is the image of the gate
 ![alt text](https://github.com/Austinbolinger/Lab2/blob/master/adder.JPG?raw=true "gate") 
