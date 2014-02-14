@@ -54,3 +54,10 @@ The testbenches output matched the Truth Table line by line. Each output matched
 The testbench for the four bit works. The ucf file uploaded nicely is waiting to be tested.
 
 #####Documentation
+C3C Pluger and I worked through how to get the four bit code to work. He asked for help from Dr. Neebel, and Dr. Neebel suggested using signals for Cin and Cout instead of logic vectors.
+
+I used this website for the for loop in the 4 bit testbench.
+http://www.seas.upenn.edu/~ese171/vhdl/VHDLTestbench.pdf
+
+I used this website to try and understand the subtractor method.
+http://stackoverflow.com/questions/14493625/vhdl-incrementing-register-value-on-push-button-event
