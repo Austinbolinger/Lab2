@@ -55,6 +55,10 @@ The testbenches output matched the Truth Table line by line. Each output matched
 
 The testbench for the four bit works. The ucf file uploaded nicely is waiting to be tested.
 
+####Test
+Both addition and subtraction was checked in class.
+
+
 #####Documentation
 C3C Pluger and I worked through how to get the four bit code to work. He asked for help from Dr. Neebel, and Dr. Neebel suggested using signals for Cin and Cout instead of logic vectors.
 
